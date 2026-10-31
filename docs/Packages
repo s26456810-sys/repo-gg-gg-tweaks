@@ -1,14 +1,14 @@
 Package: com.vibecode.stretchedclock
-Version: 0.0.23-1+debug
+Version: 0.0.24-1+debug
 Architecture: iphoneos-arm64
 Maintainer: VibeCoder
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debs/com.vibecode.stretchedclock_0.0.23-1+debug_iphoneos-arm64.deb
-Size: 5172
-MD5sum: 233d54b8b0dc1f0e31a497dfd8b1c97a
-SHA1: 08fd1d9a49c200e52c8308ca5ebe8c857c4ee80c
-SHA256: c0edfff587ba07ad9762f1f1e5778b6acab9ce2d9e62cf9fdac7bae6df131187
+Filename: debs/com.vibecode.stretchedclock_0.0.24-1+debug_iphoneos-arm64.deb
+Size: 6620
+MD5sum: c252656366e8b9b61316e9737db53c71
+SHA1: ae66cbebea0f2d01b66e40352ea448ee40cf77f8
+SHA256: 4a8a45d7e74f8aae1aaf95651e579ced2d2fdef0b0c95207e94baa723eda5365
 Description: Stretched Lock Screen clock font scale effect for iOS 16.
 Author: VibeCoder
 Name: StretchedClock
